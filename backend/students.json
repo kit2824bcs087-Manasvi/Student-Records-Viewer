@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Arun Kumar",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "email": "arunkumar@example.com",
+    "cgpa": 8.9
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "department": "Information Technology",
+    "year": 2,
+    "email": "priya@example.com",
+    "cgpa": 8.8
+  },
+  {
+    "id": 3,
+    "name": "Rahul Raj",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "email": "rahul@example.com",
+    "cgpa": 8.2
+  },
+  {
+    "id": 4,
+    "name": "Divya S",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "email": "divya@example.com",
+    "cgpa": 9.1
+  },
+  {
+    "id": 5,
+    "name": "Karthik M",
+    "department": "Information Technology",
+    "year": 3,
+    "email": "karthik@example.com",
+    "cgpa": 7.9
+  },
+  {
+    "id": 6,
+    "name": "Manasvi Prakash",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "email": "manasviprakash@gmail.com",
+    "cgpa": 9.5
+  },
+  {
+    "id": 7,
+    "name": "Dhansheera Sadak",
+    "department": "Information Technology",
+    "year": 1,
+    "email": "dhansheerasadak@gmail.com",
+    "cgpa": 8.5
+  }
+]
